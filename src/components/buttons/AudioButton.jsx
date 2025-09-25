@@ -79,24 +79,7 @@ function AudioButton({ url = "", tooltip = "", size = "", buttonClassName = "", 
         audioRef.current?.pause()
     }
 
-    return (
-        <div className={`audio-button-wrapper ${size}`}>
-            {shouldShowStaticTooltip && (
-                <HoverStaticTooltip label={tooltip}
-                                    className={`audio-button-tooltip text-center ${tooltipClassName}`}
-                                    id={uniqueId + "-tooltip"}
-                                    forceResetFlag={playCount}
-                                    targetId={uniqueId}/>
-            )}
 
-            <button className={`audio-button ${buttonClassName}`}
-                    id={uniqueId}
-                    data-tooltip={tooltip}
-                    onClick={_onClick}>
-                <i className={statusIcon}/>
-            </button>
-        </div>
-    )
 }
 
 AudioButton.Sizes = {

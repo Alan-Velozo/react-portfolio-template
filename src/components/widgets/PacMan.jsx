@@ -1,7 +1,7 @@
 import "./PacMan.scss"
 import React, {useEffect, useState} from 'react'
 
-function PacMan({ className = "", color = "pacman-color-variant-loader", hidden = false }) {
+function PacMan({ className = "", color = "red", hidden = false }) {
     const hiddenClass = hidden ?
         `pacman-wrapper-hidden` : ``
 
@@ -26,7 +26,7 @@ function PacMan({ className = "", color = "pacman-color-variant-loader", hidden 
 }
 
 PacMan.ColorVariants = {
-    LOADER: "pacman-color-variant-loader"
+    LOADER: "red"
 }
 
 export default PacMan

@@ -40,231 +40,115 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/timeline-place-udacity.png",
+                    "img": "",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2014, "month": 1},
-                    "dateEnd": {"year": 2014, "month": 6},
+                    "dateStart": {"year": 2021, "month": 6},
+                    "dateEnd": {"year": 2023, "month": 12},
                     "locales": {
                         "en": {
-                            "title": "PHP Development {{Nanodegree}}",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Udacity",
-                            "text": "Successfully completed an intensive Nanodegree program with a strong emphasis on [[PHP development]], where I gained comprehensive, hands-on experience in building dynamic and scalable web applications.",
-                            "list": [],
-                            "tags": []
+                            "title": "Professional {{Certificate}} in Digital Media Management",
+                            "province": "CABA",
+                            "country": "Argentina",
+                            "institution": "Da Vinci College",
+                            "text": "Obtained a Professional Certification in Digital Media Management, with a focus on:",
+                            "list": [
+                                "Digital communication strategies",
+                                "Online platform and content management",
+                                "Optimization of digital media presence"
+                            ],
+                            "tags": [
+                                "Digital marketing", "SEO", "Social media", "Positioning"
+                            ]
                         },
                         "es": {
-                            "title": "Desarrollo en PHP {{Nanodegree}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Udacity",
-                            "text": "Completé con éxito un programa intensivo de Nanodegree con un fuerte enfoque en [[PHP development]], donde adquirí una experiencia práctica y completa en la creación de aplicaciones web dinámicas y escalables.",
-                            "list": []
+                            "title": "{{Certificación}} Profesional en Gestión de Medios Digitales",
+                            "province": "CABA",
+                            "country": "Argentina",
+                            "institution": "Escuela Da Vinci",
+                            "text": "Obtención de una Certificación Profesional en Gestión de Medios Digitales, con un enfoque en:",
+                            "list": [
+                                "Estrategias de comunicación digital",
+                                "Gestión de plataformas y contenidos en línea",
+                                "Optimización de presencia en medios digitales"
+                            ],
+                            "tags": ["Marketing digital", "SEO", "Redes sociales", "Posicionamiento"]
                         },
                         "fr": {
-                            "title": "Développement PHP {{Nanodegree}}",
-                            "province": "",
-                            "country": "À distance",
-                            "institution": "Udacity",
-                            "text": "J'ai terminé avec succès un programme Nanodegree intensif axé sur [[PHP development]], au cours duquel j'ai acquis une expérience pratique approfondie dans la création d'applications web dynamiques et évolutives.",
-                            "list": []
+                            "title": "{{Certification}} professionnelle en gestion des médias numériques",
+                            "province": "CABA",
+                            "country": "Argentina",
+                            "institution": "École Da Vinci",
+                            "text": "Obtention d’une certification professionnelle en gestion des médias numériques, avec un accent sur :",
+                            "list": [
+                                "Les stratégies de communication numérique",
+                                "La gestion des plateformes et des contenus en ligne",
+                                "L’optimisation de la présence sur les médias numériques"
+                            ],
+                            "tags": ["Marketing numérique", "SEO", "Réseaux sociaux", "Positionnement"]
                         },
                         "ko": {
-                            "title": "PHP 개발 {{Nanodegree}}",
-                            "province": "",
-                            "country": "원격",
-                            "institution": "Udacity",
-                            "text": "[[PHP development]]에 중점을 둔 집중형 나노디그리 프로그램을 성공적으로 수료했으며, 동적이고 확장 가능한 웹 애플리케이션을 구축하는 데 있어 폭넓고 실용적인 경험을 쌓았습니다.",
-                            "list": []
+                            "title": "디지털 미디어 관리 전문 인증",
+                            "province": "부에노스아이레스 자치시",
+                            "country": "아르헨티나",
+                            "institution": "다 빈치 학교",
+                            "text": "디지털 미디어 관리 전문 자격증 취득, 중점 분야:",
+                            "list": [
+                                "디지털 커뮤니케이션 전략",
+                                "온라인 플랫폼 및 콘텐츠 관리",
+                                "디지털 미디어 존재감 최적화"
+                            ],
+                            "tags": ["디지털 마케팅", "SEO", "소셜 미디어", "포지셔닝"]
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/timeline-place-mit.png",
+                    "img": "images/pictures/davinci.jpg",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 1},
-                    "dateEnd": {"year": 2020, "month": 12},
-                    "locales": {
-                        "en": {
-                            "title": "{{Bachelor}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "MIT",
-                            "text": "Earned a [[Bachelor's degree in Computer Science]], focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects, coding boot camps, and many collaborative team-based software development activities.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "es": {
-                            "title": "{{Grado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "MIT",
-                            "text": "Obtuve un [[grado en Ciencias de la Computación]], con enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de diversos proyectos de programación, bootcamps de codificación y actividades colaborativas de desarrollo en equipo.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "fr": {
-                            "title": "{{Licence}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "MIT",
-                            "text": "J'ai obtenu une [[licence en informatique]], avec un accent sur les algorithmes, les structures de données, l’ingénierie logicielle et le développement web. J'ai acquis une solide expérience pratique grâce à divers projets de programmation, des bootcamps de code et des activités collaboratives en équipe.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "컴퓨터 과학 {{학사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "MIT",
-                            "text": "알고리즘, 자료 구조, 소프트웨어 공학, 웹 개발에 중점을 둔 [[컴퓨터 과학 학사 학위]]를 취득하였습니다. 다양한 프로그래밍 프로젝트, 코딩 부트캠프, 그리고 팀 기반의 협업 활동을 통해 실무 경험을 쌓았습니다.",
-                            "list": [],
-                            "tags": []
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "img": "images/pictures/timeline-place-university-paris.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 9},
-                    "dateEnd": {"year": 2022, "month": 6},
-                    "locales": {
-                        "en": {
-                            "title": "{{Master's}} in Artificial Intelligence",
-                            "province": "",
-                            "country": "France",
-                            "institution": "University of Paris",
-                            "text": "Completed a comprehensive Master's program focused on [[cutting-edge AI topics]], including:",
-                            "list": [
-                                "Machine Learning",
-                                "Natural Language Processing (NLP)",
-                                "Neural Networks"
-                            ],
-                            "tags": [
-                                "Neural Networks",
-                                "Machine Learning"
-                            ]
-                        },
-                        "es": {
-                            "title": "{{Máster}} en Inteligencia Artificial",
-                            "province": "",
-                            "country": "Francia",
-                            "institution": "Universidad de París",
-                            "text": "Completé un programa de máster integral centrado en [[temas avanzados de IA]], incluyendo:",
-                            "list": [
-                                "Aprendizaje automático",
-                                "Procesamiento del lenguaje natural (PLN)",
-                                "Redes neuronales"
-                            ],
-                            "tags": [
-                                "Redes neuronales",
-                                "Aprendizaje automático"
-                            ]
-                        },
-                        "fr": {
-                            "title": "{{Master}} en Intelligence Artificielle",
-                            "province": "",
-                            "country": "France",
-                            "institution": "Université de Paris",
-                            "text": "J'ai terminé un programme de master complet axé sur [[les sujets avancés en IA]], notamment :",
-                            "list": [
-                                "Apprentissage automatique",
-                                "Traitement du langage naturel (NLP)",
-                                "Réseaux de neurones"
-                            ],
-                            "tags": [
-                                "Réseaux de neurones",
-                                "Apprentissage automatique"
-                            ]
-                        },
-                        "ko": {
-                            "title": "인공지능 {{석사}}",
-                            "province": "",
-                            "country": "프랑스",
-                            "institution": "파리 대학교",
-                            "text": "[[최첨단 인공지능 주제]]를 중심으로 한 종합적인 석사 과정을 수료하였으며, 주요 내용은 다음과 같습니다:",
-                            "list": [
-                                "머신러닝",
-                                "자연어 처리 (NLP)",
-                                "신경망"
-                            ],
-                            "tags": [
-                                "신경망",
-                                "머신러닝"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "img": "images/pictures/timeline-place-harvard.png",
-                    "faIcon": "",
-                    "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2022, "month": 9},
+                    "dateStart": {"year": 2024, "month": 3},
                     "dateEnd": {"year": 2025, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{PhD}} in Computer Science",
-                            "province": "Massachusetts",
-                            "country": "US",
-                            "institution": "Harvard University",
-                            "text": "Currently pursuing a PhD with a focus on [[deep learning]] and its real-world applications, particularly in:",
-                            "list": [
-                                "Computer Vision",
-                                "Innovative AI research",
-                                "Developing [[novel algorithms]] for image recognition"
-                            ],
-                            "tags": [
-                                "Deep Learning", "Computer Vision", "AI Research", "Algorithms"
-                            ]
+                            "title": "{{Technical Degree}} in Web Design and Development",
+                            "province": "CABA",
+                            "country": "Argentina",
+                            "institution": "Da Vinci College",
+                            "text": "Completion of the Higher Technical Degree in Web Design and Development, with a focus on:",
+                            "list": ["Web interface design and layout", "Programming and development of online applications", "Optimization, usability, and best practices in digital environments"],
+                            "tags": ["Design", "Backend", "Frontend", "UX/UI"]
                         },
                         "es": {
-                            "title": "{{Doctorado}} en Ciencias de la Computación",
-                            "province": "Massachusetts",
-                            "country": "EE. UU.",
-                            "institution": "Universidad de Harvard",
-                            "text": "Actualmente cursando un doctorado con enfoque en [[aprendizaje profundo]] y sus aplicaciones en el mundo real, especialmente en:",
-                            "list": [
-                                "Visión por computadora",
-                                "Investigación innovadora en IA",
-                                "Desarrollo de [[nuevos algoritmos]] para el reconocimiento de imágenes"
-                            ],
-                            "tags": ["Aprendizaje profundo", "Visión por computadora", "Investigación en IA", "Algoritmos"]
+                            "title": "Tecnicatura en Diseño y Programación Web",
+                            "province": "CABA",
+                            "country": "Argentina",
+                            "institution": "Escuela Da Vinci",
+                            "text": "Finalización de la Tecnicatura Superior en Diseño y Programación Web, con un enfoque en:",
+                            "list": ["Diseño y maquetación de interfaces web", "Programación y desarrollo de aplicaciones en línea", "Optimización, usabilidad y buenas prácticas en entornos digitales"],
+                            "tags": ["Diseño", "Backend", "Frontend", "UX/UI"]
                         },
                         "fr": {
-                            "title": "{{Doctorat}} en informatique",
-                            "province": "Massachusetts",
-                            "country": "États-Unis",
-                            "institution": "Université Harvard",
-                            "text": "Actuellement en doctorat, avec une spécialisation en [[deep learning]] et ses applications concrètes, notamment dans :",
-                            "list": [
-                                "La vision par ordinateur",
-                                "La recherche innovante en IA",
-                                "Le développement de [[nouveaux algorithmes]] pour la reconnaissance d’images"
-                            ],
-                            "tags": ["Apprentissage profond", "Vision par ordinateur", "Recherche en IA", "Algorithmes"]
+                            "title": "Diplôme de {{technicien supérieur}} en conception et programmation web",
+                            "province": "CABA",
+                            "country": "Argentina",
+                            "institution": "École Da Vinci",
+                            "text": "Obtention du diplôme de technicien supérieur en conception et programmation web, avec un accent sur :",
+                            "list": ["La conception et la mise en page d’interfaces web", "La programmation et le développement d’applications en ligne", "L’optimisation, l’ergonomie et les bonnes pratiques dans les environnements numériques"],
+                            "tags": ["Design", "Backend", "Frontend", "UX/UI"]
                         },
                         "ko": {
-                            "title": "컴퓨터 과학 {{박사}}",
-                            "province": "매사추세츠",
-                            "country": "미국",
-                            "institution": "하버드 대학교",
-                            "text": "[[딥러닝]] 및 그 실생활 적용에 중점을 둔 박사 과정을 진행 중이며, 주요 연구 분야는 다음과 같습니다:",
-                            "list": [
-                                "컴퓨터 비전",
-                                "혁신적인 인공지능 연구",
-                                "이미지 인식을 위한 새로운 알고리즘 개발"
-                            ],
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                            "title": "웹 디자인 및 프로그래밍 전문 학위 과정",
+                            "province": "부에노스아이레스 자치시",
+                            "country": "아르헨티나",
+                            "institution": "다 빈치 학교",
+                            "text": "웹 디자인 및 프로그래밍 전문 학위 과정 이수, 중점 분야:",
+                            "list": ["웹 인터페이스 디자인 및 레이아웃", "온라인 애플리케이션 프로그래밍 및 개발", "최적화, 사용성 및 디지털 환경에서의 모범 사례"],
+                            "tags": ["디자인", "프론트엔드", "백엔드", "UX/UI"]
                         }
                     }
                 }
+                
             ]
         }
     ]

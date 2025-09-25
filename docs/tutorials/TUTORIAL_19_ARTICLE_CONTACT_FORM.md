@@ -27,7 +27,7 @@ To configure your EmailJS integration, follow these steps:
     <title>New Contact Message</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: "Montserrat", sans-serif;
             color: #333;
             background-color: #f9f9f9;
             padding: 20px;

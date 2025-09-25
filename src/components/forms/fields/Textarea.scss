@@ -22,6 +22,7 @@ textarea.form-textarea, textarea.form-textarea:focus {
     border: none;
     transition: none;
     box-shadow: none;
+    resize: none;
 }
 
 textarea.form-textarea-focused {

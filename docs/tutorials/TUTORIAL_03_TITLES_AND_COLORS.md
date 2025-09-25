@@ -21,7 +21,7 @@ If you want to change the colors of the preloading screen, open the `src/styles/
 ```scss
 $loader-background: #1b2226; // making the loader background dark blue
 $loader-contrast: #FFFFFF; // text and pacman animation color
-$primary: #51a0c2; // the base primary color (used to color the pacman beans)
+$primary: #0079eb; // the base primary color (used to color the pacman beans)
 ```
 
 For a smoother visual transition, you can also match the splash screen background in `index.html` by setting the same background color:

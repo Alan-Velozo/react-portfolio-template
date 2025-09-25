@@ -46,12 +46,6 @@ function Article({ children, id, type, dataWrapper, className = "", selectedItem
             )}
 
             <ArticleContent>
-                {dataWrapper.categories.length > 0 && (
-                    <CategoryFilter categories={dataWrapper.categories}
-                                    selectedCategoryId={selectedItemCategoryId}
-                                    setSelectedCategoryId={setSelectedItemCategoryId}
-                                    className={`article-category-filter`}/>
-                )}
 
                 {children}
             </ArticleContent>

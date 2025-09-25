@@ -110,8 +110,7 @@ function ArticlePortfolioItemTitle({ itemWrapper }) {
             <h5 className={`article-portfolio-item-title-main`}
                 dangerouslySetInnerHTML={{__html: itemWrapper.locales.title || itemWrapper.placeholder}}/>
 
-            <div className={`article-portfolio-item-title-category text-2`}
-                 dangerouslySetInnerHTML={{__html: itemWrapper.category?.label }}/>
+            
         </div>
     )
 }
@@ -124,14 +123,7 @@ function ArticlePortfolioItemTitle({ itemWrapper }) {
 function ArticlePortfolioItemBody({ itemWrapper }) {
     return (
         <div className={`article-portfolio-item-body`}>
-            <Tags className={`article-portfolio-item-body-tags`}>
-                {itemWrapper.locales.tags && Boolean(itemWrapper.locales.tags.length) && itemWrapper.locales.tags.map((tag, key) => (
-                    <Tag key={key}
-                         text={tag}
-                         variant={Tag.Variants.DARK}
-                         className={`article-portfolio-item-body-tag text-1`}/>
-                ))}
-            </Tags>
+            
 
             <div className={`article-portfolio-item-body-description text-2`}
                  dangerouslySetInnerHTML={{__html: itemWrapper.locales.text}}/>
