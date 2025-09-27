@@ -14,7 +14,11 @@ function RowForm({ children, id, className = "", onSubmit }) {
 
     return (
         <form id={id}
+              name="contact"
+              method="POST"
+              data-netlify="true"
               onSubmit={onSubmit}>
+            <input type="hidden" name="form-name" value="contact" />
             <Row className={`row-form gx-3 ${className}`}>
                 {children}
             </Row>
