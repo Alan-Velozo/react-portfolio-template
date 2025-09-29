@@ -16,9 +16,8 @@ function RowForm({ children, id, className = "", onSubmit }) {
         <form id={id}
               name="contact"
               method="POST"
-              data-netlify="true"
-              onSubmit={onSubmit}>
-            <input type="hidden" name="form-name" value="contact" />
+              onSubmit={onSubmit}
+              action="https://alan-portfolio.gamer.gd/contact.php">
             <Row className={`row-form gx-3 ${className}`}>
                 {children}
             </Row>
