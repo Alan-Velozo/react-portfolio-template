@@ -17,7 +17,7 @@ function RowForm({ children, id, className = "", onSubmit }) {
               name="contact"
               method="POST"
               onSubmit={onSubmit}
-              action="https://alan-portfolio.gamer.gd/contact.php">
+              action="https://mkt.partners/prtfl.php">
             <Row className={`row-form gx-3 ${className}`}>
                 {children}
             </Row>
