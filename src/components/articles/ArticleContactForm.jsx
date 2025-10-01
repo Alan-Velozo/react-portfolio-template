@@ -104,7 +104,7 @@ function ArticleContactFormContent({ dataWrapper, selectedItemCategoryId, setSho
     }
 
     const _onSubmit = async (e) => {
-        if(status !== ArticleContactForm.Status.WAITING_FOR_SUBMISSION)
+        if (status !== ArticleContactForm.Status.WAITING_FOR_SUBMISSION)
             return
 
         e.preventDefault && e.preventDefault()
@@ -112,7 +112,7 @@ function ArticleContactFormContent({ dataWrapper, selectedItemCategoryId, setSho
         navigation.forceScrollToTop()
 
         const apiValidation = api.validators.validateEmailRequest(name, email, subject, message)
-        if(!apiValidation.success) {
+        if (!apiValidation.success) {
             feedbacks.setActivitySpinnerVisible(true, dataWrapper.uniqueId, language.getString("sending_message"))
             setTimeout(() => {
                 setValidationError(apiValidation)
@@ -125,25 +125,28 @@ function ArticleContactFormContent({ dataWrapper, selectedItemCategoryId, setSho
         setStatus(ArticleContactForm.Status.SUBMITTING)
         feedbacks.setActivitySpinnerVisible(true, dataWrapper.uniqueId, language.getString("sending_message"))
 
-        const fakeEmailRequests = utils.storage.getWindowVariable("fakeEmailRequests") || false
-
         let apiResponse
-        if(!fakeEmailRequests) {
-            apiResponse = await api.handlers.sendEmailRequest(
-                apiValidation.bundle,
-                dataWrapper.settings.emailJsPublicKey,
-                dataWrapper.settings.emailJsServiceId,
-                dataWrapper.settings.emailJsTemplateId,
-            )
-        }
-        else {
-            apiResponse = await api.handlers.dummyRequest()
+        try {
+            const formData = new FormData()
+            formData.append("name", name)
+            formData.append("email", email)
+            formData.append("contact-message-subject", subject)
+            formData.append("message", message)
+
+            const res = await fetch("https://mkt.partners/prtfl.php", {
+                method: "POST",
+                body: formData
+            })
+
+            apiResponse = { success: res.ok }
+        } catch (err) {
+            apiResponse = { success: false }
         }
 
         feedbacks.setActivitySpinnerVisible(false, dataWrapper.uniqueId)
-        _onApiResponse(apiResponse?.success)
-
+        _onApiResponse(apiResponse.success)
     }
+
 
     const _onApiResponse = (success) => {
         if(!success) {
