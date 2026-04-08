@@ -67,12 +67,12 @@
                 {
                     "id": 1,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/merco.png",
+                    "img": "images/pictures/waf.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://merco.agency", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://wearefrankieagency.com/marketing", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -82,20 +82,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Merco",
-                            "text": "Merco is a growth marketing agency partnered as a Google Premier Partner and Meta Business Partner. It specializes in accelerating digital transformation for businesses through e-commerce strategies, automation, conversion optimization, data intelligence technology, and hosting services, focusing on tangible results and sustainable growth.",
+                            "title": "We Are Frankie",
+                            "text": "Marketing agency focused on brand growth, especially in ecommerce. It offers services such as paid advertising, email, SMS, design, and data-driven strategy to increase conversions and sales. Its approach is to optimize the entire funnel and scale businesses profitably through strategic decisions and continuous analysis.",
                             "tags": ["API", "REST", "Backend"]
                         },
                         "es": {
-                            "text": "Merco es una agencia de growth marketing asociada como Google Premier Partner y Meta Business Partner. Se especializa en acelerar la transformación digital de empresas mediante estrategias de ecommerce, automatización, optimización de conversiones, tecnología de inteligencia de datos y servicios de hosting, con un enfoque en resultados tangibles y crecimiento sostenible.",
+                            "text": "Agencia de marketing enfocada en crecimiento de marcas, especialmente ecommerce. Ofrece servicios como publicidad paga, email, SMS, diseño y estrategia basada en datos para aumentar conversiones y ventas. Su enfoque es optimizar todo el funnel y escalar negocios de forma rentable mediante decisiones estratégicas y análisis continuo.",
                             "tags": ["API", "REST", "Backend"]
                         },
                         "fr": {
-                            "text": "Merco est une agence de growth marketing partenaire Google Premier et Meta Business Partner. Elle se spécialise dans l’accélération de la transformation numérique des entreprises grâce à des stratégies e-commerce, l’automatisation, l’optimisation des conversions, la technologie d’intelligence de données et les services d’hébergement, avec un focus sur des résultats tangibles et une croissance durable.",
+                            "text": "Agence de marketing axée sur la croissance des marques, במיוחד dans le commerce électronique. Elle propose des services tels que la publicité payante, l’email, le SMS, le design et des stratégies basées sur les données pour augmenter les conversions et les ventes. Son approche consiste à optimiser tout le tunnel de conversion et à développer les entreprises de manière rentable grâce à des décisions stratégiques et une analyse continue.",
                             "tags": ["API", "REST", "Backend"]
                         },
                         "ko": {
-                            "text": "Merco Google Premier Partner 및 Meta Business Partner로 제휴된 그로스 마케팅 에이전시입니다. 전자상거래 전략, 자동화, 전환 최적화, 데이터 인텔리전스 기술 및 호스팅 서비스를 통해 기업의 디지털 전환을 가속화하며, 실질적인 성과와 지속 가능한 성장을 목표로 합니다.",
+                            "text": "브랜드 성장에 초점을 맞춘 마케팅 에이전시로, 특히 이커머스 분야에 강점을 가지고 있습니다. 유료 광고, 이메일, SMS, 디자인 및 데이터 기반 전략 서비스를 제공하여 전환율과 매출을 증가시킵니다. 전체 퍼널을 최적화하고 전략적 의사결정과 지속적인 분석을 통해 수익성 있게 비즈니스를 확장합니다.",
                             "tags": ["API", "REST", "Backend"]
                         }
                     }
@@ -319,12 +319,12 @@
                 {
                     "id": 8,
                     "categoryId": "category_utilities",
-                    "img": "images/pictures/lof.png",
+                    "img": "images/pictures/ambuilders.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://franquicias.lof.com.ar/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://lp.ambuildersca.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -334,20 +334,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "LOF",
-                            "text": "Ópticas LOF is an Argentine company with over 47 years of experience in the optical market. They offer products and services for eye care, including prescription glasses, contact lenses, sunglasses, and accessories. With more than 20 branches in the Greater Buenos Aires area (AMBA), they operate under a franchise model, allowing entrepreneurs to partner with their brand.",
+                            "title": "AM Builds",
+                            "text": "Company focused on construction and related services, offering tools and guidance to estimate costs, materials, and labor for projects. Its approach is to simplify planning and decision-making in construction through practical information, technical resources, and basic guidance for different types of work.",
                             "tags": ["AI", "Prediction", "Soccer"]
                         },
                         "es": {
-                            "text": "Ópticas LOF es una empresa argentina con más de 47 años de trayectoria en el mercado óptico. Ofrece productos y servicios para el cuidado de la visión, incluyendo lentes recetados, lentes de contacto, anteojos de sol y accesorios. Cuenta con más de 20 sucursales en el área metropolitana de Buenos Aires (AMBA) y opera bajo el modelo de franquicia, permitiendo a emprendedores asociarse a su marca.",
+                            "text": "Empresa enfocada en construcción y servicios asociados, que ofrece herramientas y asesoramiento para estimar costos, materiales y mano de obra en proyectos. Su propuesta es facilitar la planificación y toma de decisiones en obras mediante información práctica, recursos técnicos y orientación básica para distintos tipos de trabajos.",
                             "tags": ["IA", "Predicción", "Fútbol"]
                         },
                         "fr": {
-                            "text": "Ópticas LOF est une entreprise argentine forte de plus de 47 ans d'expérience sur le marché de l'optique. Elle propose des produits et services pour les soins de la vue, tels que des lunettes de vue, des lentilles de contact, des lunettes de soleil et des accessoires. Avec plus de 20 succursales dans la région métropolitaine de Buenos Aires (AMBA), elle fonctionne selon un modèle de franchise, permettant aux entrepreneurs de s'associer à leur marque.",
+                            "text": "Entreprise axée sur la construction et les services associés, offrant des outils et des conseils pour estimer les coûts, les matériaux et la main-d’œuvre des projets. Son approche consiste à simplifier la planification et la prise de décision grâce à des informations pratiques, des ressources techniques et une orientation de base pour différents types de travaux.",
                             "tags": ["IA", "Prédiction", "Football"]
                         },
                         "ko": {
-                            "text": "Ópticas LOF는 47년 이상의 역사를 가진 아르헨티나의 안경 회사입니다. 처방전 안경, 콘택트 렌즈, 선글라스 및 액세서리 등 시력 관리 제품과 서비스를 제공합니다. 부에노스아이레스 대도시 지역(AMBA)에 20개 이상의 지점을 운영하며, 프랜차이즈 모델을 통해 기업가들이 브랜드와 협력할 수 있도록 합니다.",
+                            "text": "건설 및 관련 서비스에 중점을 둔 회사로, 프로젝트의 비용, 자재 및 인건비를 추정할 수 있는 도구와 지침을 제공합니다. 실용적인 정보, 기술 자료 및 다양한 작업 유형에 대한 기본적인 안내를 통해 건설 계획과 의사결정을 간소화하는 것을 목표로 합니다.",
                             "tags": ["AI", "예측", "축구"]
                         }
                     }
