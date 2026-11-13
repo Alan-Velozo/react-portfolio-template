@@ -175,12 +175,12 @@
                 {
                     "id": 4,
                     "categoryId": "category_web",
-                    "img": "images/pictures/elpuente.png",
+                    "img": "images/pictures/agro.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://landing.lacteoselpuente.com.ar/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://agrohidraulica.com/mineria/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -190,20 +190,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "El Puente",
-                            "text": "Lácteos El Puente is an Argentine family-owned company with over 45 years of experience in dairy production. They offer a wide range of cheeses, dairy products, sweets, and platters, renowned for their commitment to quality and tradition. The company operates franchises in various locations, expanding their reach to more households.",
+                            "title": "Agrohidráulica Pueyrredón",
+                            "text": "Agrohidráulica Pueyrredón is an Argentine company specializing in hydraulic solutions for the mining and oil industries. It offers hydraulic hose crimping machines, high-pressure testing benches, tools, and industrial components. As the exclusive representative of Yong-Feng in Argentina, the company stands out for its experience, technical consulting, local warranty, and equipment availability with nationwide shipping.",
                             "tags": ["Next.js", "Finance", "Money"]
                         },
                         "es": {
-                            "text": "Lácteos El Puente es una empresa familiar argentina con más de 45 años de experiencia en la elaboración de productos lácteos. Ofrece una amplia gama de quesos, lácteos, dulces y picadas, destacándose por su compromiso con la calidad y la tradición. Cuenta con franquicias en diversas localidades, llevando sus productos a más hogares.",
+                            "text": "Agrohidráulica Pueyrredón es una empresa argentina especializada en soluciones hidráulicas para los sectores minero y petrolero. Ofrece prensas para mangueras hidráulicas, bancos de prueba de alta presión, herramientas y componentes industriales. Como representante exclusivo de Yong-Feng en Argentina, se distingue por su experiencia, asesoramiento técnico, garantía local y disponibilidad de equipos con envíos a todo el país.",
                             "tags": ["Next.js", "Finanzas", "Dinero"]
                         },
                         "fr": {
-                            "text": "Lácteos El Puente est une entreprise familiale argentine forte de plus de 45 ans d'expérience dans la production de produits laitiers. Elle propose une large gamme de fromages, de produits laitiers, de douceurs et de plateaux, reconnue pour son engagement envers la qualité et la tradition. L'entreprise possède des franchises dans différentes localités, étendant ainsi sa présence à davantage de foyers.",
+                            "text": "Agrohidráulica Pueyrredón est une entreprise argentine spécialisée dans les solutions hydrauliques pour les secteurs minier et pétrolier. Elle propose des presses à sertir pour flexibles hydrauliques, des bancs d'essai haute pression, des outils et des composants industriels. En tant que représentant exclusif de Yong-Feng en Argentine, elle se distingue par son expérience, son conseil technique, sa garantie locale et ses livraisons dans tout le pays.",
                             "tags": ["Next.js", "Finance", "Argent"]
                         },
                         "ko": {
-                            "text": "Lácteos El Puente는 45년 이상의 역사를 가진 아르헨티나의 가족 소유 유제품 회사입니다. 다양한 종류의 치즈, 유제품, 디저트 및 플래터를 제공하며, 품질과 전통에 대한 헌신으로 유명합니다. 회사는 여러 지역에 프랜차이즈를 운영하여 더 많은 가정에 제품을 제공합니다.",
+                            "text": "Agrohidráulica Pueyrredón은 광업 및 석유 산업을 위한 유압 솔루션을 전문으로 하는 아르헨티나 기업입니다. 유압 호스 압착기, 고압 시험 장비, 공구 및 산업용 부품을 제공합니다. 아르헨티나 내 Yong-Feng 독점 공식 대리점으로서 풍부한 경험, 기술 자문, 현지 보증 서비스 및 전국 배송이 가능한 장비 공급을 강점으로 내세우고 있습니다.",
                             "tags": ["Next.js", "금융", "돈"]
                         }
                     }
@@ -211,12 +211,12 @@
                 {
                     "id": 5,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/itextil.png",
+                    "img": "images/pictures/spazio-favicon.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://mayoristas.itextil.ar/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://spaziooral.co/implantes/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -226,20 +226,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "iTextil",
-                            "text": "iTextil is an Argentine company specializing in garment customization using advanced techniques such as DTG digital printing, DTF transfer, and high-quality embroidery. They offer products like t-shirts, sweatshirts, caps, and tote bags, with their own designs and the option to customize with logos, phrases, or illustrations. They stand out for their express service, delivering orders in less than 24 hours, and catering to businesses, wholesalers, and online stores.",
+                            "title": "Spazio Oral",
+                            "text": "Spazio Oral is a dental clinic specializing in implantology, cosmetic dentistry, and oral rehabilitation, located in Medellín, Colombia. Its approach combines advanced digital technology with the expertise of certified specialists to deliver personalized treatments and natural-looking results. The clinic offers individual dental implants, implant-supported bridges, and full-arch restorations, using renowned systems from brands such as Neodent and Straumann. The brand stands out for its personalized care, clinical precision, and commitment to restoring patients' smiles and confidence.",
                             "tags": ["Swift", "Photography", "Camera"]
                         },
                         "es": {
-                            "text": "iTextil es una empresa argentina especializada en la personalización de prendas mediante técnicas avanzadas como impresión digital DTG, transferencia DTF y bordado de alta calidad. Ofrece productos como remeras, buzos, gorras y tote bags, con diseños propios y la posibilidad de personalizar con logos, frases o ilustraciones. Destaca por su servicio exprés, entregando pedidos en menos de 24 horas, y atención a empresas, mayoristas y comercios online.",
+                            "text": "Spazio Oral es una clínica odontológica especializada en implantología, estética y rehabilitación oral, ubicada en Medellín, Colombia. Su propuesta combina tecnología digital avanzada con la experiencia de especialistas certificados para ofrecer tratamientos personalizados y resultados naturales. Cuenta con soluciones de implantes dentales individuales, puentes y prótesis completas, utilizando sistemas de marcas reconocidas como Neodent y Straumann. La marca se distingue por su atención personalizada, precisión clínica y compromiso con la recuperación de la sonrisa y la confianza de sus pacientes.",
                             "tags": ["Swift", "Fotografía", "Cámara"]
                         },
                         "fr": {
-                            "text": "iTextil est une entreprise argentine spécialisée dans la personnalisation de vêtements grâce à des techniques avancées telles que l'impression numérique DTG, le transfert DTF et la broderie de haute qualité. Ils proposent des produits tels que des t-shirts, des sweat-shirts, des casquettes et des tote bags, avec leurs propres designs et la possibilité de personnaliser avec des logos, des phrases ou des illustrations. Ils se distinguent par leur service express, livrant les commandes en moins de 24 heures, et s'adressent aux entreprises, grossistes et boutiques en ligne.",
+                            "text": "Spazio Oral est une clinique dentaire spécialisée en implantologie, en dentisterie esthétique et en réhabilitation orale, située à Medellín, en Colombie. Son approche associe des technologies numériques avancées à l'expertise de spécialistes certifiés afin de proposer des traitements personnalisés et des résultats naturels. La clinique offre des implants dentaires individuels, des bridges sur implants et des réhabilitations complètes, en utilisant des systèmes de marques reconnues telles que Neodent et Straumann. La marque se distingue par son accompagnement personnalisé, sa précision clinique et son engagement à redonner aux patients le sourire et la confiance.",
                             "tags": ["Swift", "Photographie", "Caméra"]
                         },
                         "ko": {
-                            "text": "iTextil은 DTG 디지털 인쇄, DTF 전사 및 고품질 자수와 같은 고급 기술을 사용하여 의류를 맞춤화하는 아르헨티나 회사입니다. 그들은 티셔츠, 스웨트셔츠, 모자 및 토트백과 같은 제품을 제공하며, 자체 디자인과 로고, 문구 또는 일러스트로 맞춤화할 수 있는 옵션을 제공합니다. 그들은 24시간 이내에 주문을 배송하는 빠른 서비스로 두드러지며, 기업, 도매업체 및 온라인 상점을 대상으로 합니다",
+                            "text": "Spazio Oral은 콜롬비아 메데인에 위치한 임플란트, 심미 치과 및 구강 재건 전문 치과 클리닉입니다. 첨단 디지털 기술과 공인 전문의의 풍부한 경험을 결합하여 개인 맞춤형 치료와 자연스러운 결과를 제공합니다. 개별 치아 임플란트, 임플란트 브릿지 및 전체 구강 보철 치료를 제공하며, Neodent와 Straumann 같은 유명 브랜드의 시스템을 사용합니다. 환자 개개인에 대한 세심한 관리, 임상적 정밀성, 그리고 환자의 미소와 자신감을 되찾아 주기 위한 노력으로 차별화됩니다.",
                             "tags": ["Swift", "사진", "카메라"]
                         }
                     }
@@ -283,12 +283,12 @@
                 {
                     "id": 7,
                     "categoryId": "category_web",
-                    "img": "images/pictures/mayuato.png",
+                    "img": "images/pictures/united89.png",
                     "faIcon": "fa-solid fa-guitar",
                     "faIconColors": {"bg": "#7671AA", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://mayoristamayuato.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://united89plumbing.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -298,20 +298,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Mayuato",
-                            "text": "Mayorista Mayuato is an Argentine wholesale store located in Lomas de Zamora, Buenos Aires. Founded in 1989, it offers a wide range of mass consumption products, including candies, kiosk items, beverages, and cleaning supplies. It stands out for its personalized service, competitive prices, and efficient service for small and medium-sized businesses.",
+                            "title": "United 89 Services Inc.",
+                            "text": "United 89 Services Inc. is a company specializing in residential and commercial plumbing services across Miami-Dade and Broward, Florida. It provides comprehensive solutions for leak repairs, drain cleaning, water heater installations, pipe inspections, and remodeling projects. With over 10 years of experience, professional licensing, and full insurance coverage, the brand stands out for its 24/7 availability, fast response times, transparent pricing, and commitment to quality service.",
                             "tags": ["Django", "Music", "Rock"]
                         },
                         "es": {
-                            "text": "Mayorista Mayuato es un comercio mayorista argentino ubicado en Lomas de Zamora, Buenos Aires. Fundado en 1989, ofrece una amplia variedad de productos de consumo masivo, incluyendo golosinas, artículos de kiosco, bebidas y artículos de limpieza. Se destaca por su atención personalizada, precios competitivos y un servicio ágil para pequeños y medianos comercios.",
+                            "text": "United 89 Services Inc. es una empresa especializada en servicios profesionales de plomería residencial y comercial en Miami-Dade y Broward, Florida. Ofrece soluciones integrales para reparación de fugas, destapaciones, instalación de calentadores de agua, inspecciones de tuberías y remodelaciones. Con más de 10 años de experiencia, licencia y seguro profesional, la marca se distingue por su atención las 24 horas, respuesta rápida, transparencia en los precios y compromiso con la calidad del servicio.",
                             "tags": ["Django", "Música", "Rock"]
                         },
                         "fr": {
-                            "text": "Mayorista Mayuato est un commerce de gros argentin situé à Lomas de Zamora, Buenos Aires. Fondé en 1989, il propose une large gamme de produits de consommation courante, notamment des bonbons, des articles de kiosque, des boissons et des produits de nettoyage. Il se distingue par son service personnalisé, ses prix compétitifs et un service efficace pour les petites et moyennes entreprises.",
+                            "text": "United 89 Services Inc. est une entreprise spécialisée dans les services de plomberie résidentielle et commerciale dans les comtés de Miami-Dade et de Broward, en Floride. Elle propose des solutions complètes pour la réparation des fuites, le débouchage des canalisations, l'installation de chauffe-eau, l'inspection des tuyauteries et les travaux de rénovation. Forte de plus de 10 ans d'expérience, agréée et assurée, la marque se distingue par sa disponibilité 24 h/24, sa rapidité d'intervention, la transparence de ses tarifs et son engagement envers la qualité.",
                             "tags": ["Django", "Musique", "Rock"]
                         },
                         "ko": {
-                            "text": "Mayorista Mayuato는 부에노스아이레스 로마스 데 사모라에 위치한 아르헨티나의 도매 상점입니다. 1989년에 설립되어 사탕, 키오스크 용품, 음료 및 청소 용품 등 다양한 대중 소비 제품을 제공합니다. 개인화된 서비스, 경쟁력 있는 가격 및 중소기업을 위한 효율적인 서비스로 두드러집니다.",
+                            "text": "United 89 Services Inc.는 미국 플로리다주 마이애미데이드 및 브로워드 지역에서 주거용 및 상업용 배관 서비스를 전문적으로 제공하는 기업입니다. 누수 수리, 배수관 막힘 제거, 온수기 설치, 배관 검사 및 리모델링 등 다양한 서비스를 제공합니다. 10년 이상의 경험과 정식 면허 및 보험을 갖춘 이 브랜드는 24시간 연중무휴 서비스, 신속한 대응, 투명한 가격 정책과 높은 서비스 품질에 대한 헌신으로 차별화됩니다.",
                             "tags": ["Django", "음악", "록"]
                         }
                     }
@@ -355,12 +355,12 @@
                 {
                     "id": 9,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/thonet.png",
+                    "img": "images/pictures/beauty-favicon.png",
                     "faIcon": "fa-solid fa-truck-fast",
                     "faIconColors": {"bg": "#007396", "fill": "#EEEEEE"},
                     "preview": {
                         "links": [
-                            {"href": "https://b2b.thonet-vander.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://lp.beautyavenuehillcountry.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -370,20 +370,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Thonet & Vander",
-                            "text": "Thonet & Vander is an Argentine audio brand that combines German technology with contemporary design. They offer a wide range of products, including portable speakers, 2.1 systems, soundbars, and headphones, all designed to provide an immersive sound experience. With over 60 years in the market, they stand out for their commitment to quality and innovation in each of their products.",
+                            "title": "Beauty Avenue Hill Country",
+                            "text": "Beauty Avenue is a brand specializing in beauty and skincare, combining professional-grade LED technology with advanced cosmetic treatments. Its approach focuses on delivering visible results in skin rejuvenation, collagen production, and improved skin texture. The brand also offers natural products inspired by Texas Hill Country and anti-aging formulations, promoting a personal care experience that brings together science, innovation, and wellness.",
                             "tags": ["React Native", "Delivery", "Real-Time Tracking"]
                         },
                         "es": {
-                            "text": "Thonet & Vander es una marca argentina de audio que combina tecnología alemana con diseño contemporáneo. Ofrece una amplia gama de productos, incluyendo parlantes portátiles, sistemas 2.1, barras de sonido y auriculares, todos diseñados para brindar una experiencia sonora inmersiva. Con presencia en el mercado desde hace más de 60 años, se destaca por su compromiso con la calidad y la innovación en cada uno de sus productos.",
+                            "text": "Beauty Avenue es una marca especializada en belleza y cuidado de la piel que combina tecnología LED de grado profesional con tratamientos cosméticos avanzados. Su propuesta busca ofrecer resultados visibles en rejuvenecimiento, producción de colágeno y mejora de la textura cutánea. Además, cuenta con productos naturales inspirados en Texas Hill Country y formulaciones antiedad, promoviendo una experiencia de cuidado personal que integra ciencia, innovación y bienestar.",
                             "tags": ["React Native", "Entrega", "Seguimiento"]
                         },
                         "fr": {
-                            "text": "Thonet & Vander est une marque argentine de produits audio qui allie technologie allemande et design contemporain. Elle propose une large gamme de produits, notamment des enceintes portables, des systèmes 2.1, des barres de son et des casques, tous conçus pour offrir une expérience sonore immersive. Présente sur le marché depuis plus de 60 ans, elle se distingue par son engagement envers la qualité et l'innovation dans chacun de ses produits.",
+                            "text": "Beauty Avenue est une marque spécialisée dans la beauté et les soins de la peau, qui associe la technologie LED de qualité professionnelle à des traitements cosmétiques avancés. Son approche vise à offrir des résultats visibles en matière de rajeunissement cutané, de production de collagène et d'amélioration de la texture de la peau. La marque propose également des produits naturels inspirés de la région de Texas Hill Country et des formules anti-âge, pour une expérience de soin alliant science, innovation et bien-être.",
                             "tags": ["React Native", "Livraison", "Suivi"]
                         },
                         "ko": {
-                            "text": "Thonet & Vander는 독일 기술과 현대적인 디자인을 결합한 아르헨티나의 오디오 브랜드입니다. 휴대용 스피커, 2.1 시스템, 사운드바, 헤드폰 등 다양한 제품을 제공하며, 모두 몰입감 있는 사운드 경험을 제공하도록 설계되었습니다. 60년 이상의 역사를 자랑하며, 각 제품에 대한 품질과 혁신에 대한 헌신으로 두드러집니다.",
+                            "text": "Beauty Avenue는 전문적인 LED 기술과 첨단 화장품 트리트먼트를 결합한 뷰티 및 스킨케어 전문 브랜드입니다. 피부 재생, 콜라겐 생성 및 피부결 개선에 눈에 띄는 효과를 제공하는 것을 목표로 합니다. 또한 텍사스 힐 컨트리 지역에서 영감을 받은 천연 제품과 안티에이징 포뮬러를 선보이며, 과학과 혁신, 웰빙이 조화를 이루는 퍼스널 케어 경험을 제공합니다.",
                             "tags": ["React Native", "배송", "실시간 추적"]
                         }
                     }
