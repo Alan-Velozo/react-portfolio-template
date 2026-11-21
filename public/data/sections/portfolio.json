@@ -139,12 +139,12 @@
                 {
                     "id": 3,
                     "categoryId": "category_apps",
-                    "img": "images/pictures/millax.png",
+                    "img": "images/pictures/miramar.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://www.millax.io/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
+                            {"href": "https://lp.miramarsunshinedaycare.com/", "tooltipString": "open_website", "faIcon": "fa-solid fa-arrow-right"}
                         ],
                         "screenshots": [
 
@@ -154,20 +154,20 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Millax",
-                            "text": "Millax is an Argentine company providing a comprehensive ecosystem of digital logistics solutions, combining consulting, systems, education, and qualified suppliers. Its platform enables the integration of tools such as TMS, WMS, CRM, and fulfillment solutions, tailored to the needs of businesses across various industries.",
+                            "title": "Miramar Sunshine Daycare",
+                            "text": "An early childhood education and childcare center located in Miramar, Florida. It offers educational programs for infants, toddlers, and preschoolers, as well as kindergarten preparation and extracurricular activities such as ballet and karate. Its approach combines play-based learning, social and emotional development, and personalized care, providing families with a safe, stimulating environment focused on children's overall growth.",
                             "tags": ["React", "Organization", "Notes"]
                         },
                         "es": {
-                            "text": "Millax es una empresa argentina que ofrece un ecosistema integral de soluciones logísticas digitales, combinando consultoría, sistemas, educación y proveedores calificados. Su plataforma facilita la integración de herramientas como TMS, WMS, CRM y soluciones de fulfillment, adaptadas a las necesidades de empresas de diversos sectores.",
+                            "text": "Un centro de cuidado infantil y educación temprana ubicado en Miramar, Florida. Ofrece programas educativos para bebés, niños pequeños y preescolares, además de preparación para kindergarten y actividades extracurriculares como ballet y karate. Su propuesta combina aprendizaje mediante el juego, desarrollo social y emocional, y atención personalizada, brindando a las familias un entorno seguro, estimulante y orientado al crecimiento integral de los niños.",
                             "tags": ["React", "Organización", "Notas"]
                         },
                         "fr": {
-                            "text": "Millax est une entreprise argentine offrant un écosystème complet de solutions logistiques numériques, alliant conseil, systèmes, éducation et fournisseurs qualifiés. Sa plateforme permet l'intégration d'outils tels que TMS, WMS, CRM et des solutions de fulfillment, adaptées aux besoins des entreprises de divers secteurs.",
+                            "text": "Un centre de garde d'enfants et d'éducation de la petite enfance situé à Miramar, en Floride. Il propose des programmes éducatifs pour les bébés, les tout-petits et les enfants d'âge préscolaire, ainsi qu'une préparation à l'entrée à l'école maternelle et des activités extrascolaires comme le ballet et le karaté. Son approche associe apprentissage par le jeu, développement social et émotionnel et accompagnement personnalisé, dans un environnement sûr et stimulant.",
                             "tags": ["React", "Organisation", "Notes"]
                         },
                         "ko": {
-                            "text": "Millax는 컨설팅, 시스템, 교육 및 인증된 공급업체를 결합한 디지털 물류 솔루션의 종합 생태계를 제공하는 아르헨티나 기업입니다. 이 플랫폼은 다양한 산업 분야의 기업 요구에 맞게 TMS, WMS, CRM 및 풀필먼트 솔루션과 같은 도구의 통합을 용이하게 합니다.",
+                            "text": "는 미국 플로리다주 미라마에 위치한 영유아 보육 및 조기 교육 센터입니다. 영아, 유아 및 미취학 아동을 위한 교육 프로그램과 유치원 입학 준비 과정, 발레와 가라테 같은 특별 활동을 제공합니다. 놀이 중심 학습과 사회적·정서적 발달, 개별 맞춤형 돌봄을 결합하여 아이들의 전인적 성장을 지원하는 안전하고 자극적인 환경을 조성합니다.",
                             "tags": ["React", "조직", "메모"]
                         }
                     }
